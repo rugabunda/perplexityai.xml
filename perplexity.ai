@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>Perplexity Search</ShortName>
+    <Description>Search Perplexity AI</Description>
+    <InputEncoding>UTF-8</InputEncoding>
+    <Url type="text/html" template="https://www.perplexity.ai/search/new?q={searchTerms}"/>
+    <LongName>Perplexity AI Search</LongName>
+    <Image height="16" width="16" type="image/x-icon">https://www.perplexity.ai/favicon.ico</Image>
+    <Query role="example" searchTerms="example"/>
+    <Developer>Perplexity AI</Developer>
+    <Attribution>Search results provided by Perplexity AI</Attribution>
+    <SyndicationRight>open</SyndicationRight>
+    <Language>en</Language>
+</OpenSearchDescription>
